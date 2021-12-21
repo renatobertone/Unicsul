@@ -1,2 +1,2 @@
 # Unicsul
-Repositório da Universidade Cruzeiro do Sul
+Repositório Para Projetos da Universidade Cruzeiro do Sul
